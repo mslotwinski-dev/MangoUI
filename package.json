@@ -1,0 +1,19 @@
+{
+  "name": "mangoui",
+  "version": "1.0.0",
+  "description": "Simple CSS lib",
+  "main": "src/index.sass",
+  "scripts": {
+    "start": "sass src/index.sass mango.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paprotka2137/MangoUI.git"
+  },
+  "author": "Mateusz Słotwiński",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paprotka2137/MangoUI/issues"
+  },
+  "homepage": "https://github.com/paprotka2137/MangoUI#readme"
+}
