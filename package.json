@@ -4,7 +4,7 @@
   "description": "Simple CSS lib",
   "main": "src/index.sass",
   "scripts": {
-    "start": "sass src/index.sass mango.css"
+    "start": "cd scripts && start.sh"
   },
   "repository": {
     "type": "git",

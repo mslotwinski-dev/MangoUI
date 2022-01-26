@@ -1,0 +1,1 @@
+sass ../src/index.sass ../dist/mango.css
