@@ -1,1 +1,1 @@
-sass ../src/index.sass ../dist/mango.css
+sass ../src/index.sass ../mango-ui/dist/mango.css

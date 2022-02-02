@@ -4,7 +4,8 @@
   "description": "Simple CSS lib",
   "main": "src/index.sass",
   "scripts": {
-    "start": "cd scripts && start.sh"
+    "start": "cd scripts && start.sh",
+    "publish": "cd mango-ui && npm publish --access public"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,9 @@
+{
+    "name": "@mslotwinski/mango-ui",
+    "main": "dist/mango.css",
+    "version": "1.0.1",
+    "author": {
+        "name": "Mateusz Słotwiński"
+    },
+    "license": "MIT"
+}
